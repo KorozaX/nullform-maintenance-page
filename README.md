@@ -8,7 +8,7 @@ A fictional system maintenance portal with live-feeling telemetry, an animated r
 
 ## Live Demo
 
-The Vercel deployment URL will be added here once the project is published.
+[The Vercel deployment URL will be added here once the project is published.](https://nullform-maintenance-page.vercel.app/) 
 
 ## Features
 
